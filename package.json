@@ -1,0 +1,8 @@
+{
+  "name": "example-nodejs",
+  "version": "1.0.0",
+  "description": "demo backend app for ntmanh",
+  "main": "src/server.ts",
+  "author": "NT Manh",
+  "license": "MIT"
+}
