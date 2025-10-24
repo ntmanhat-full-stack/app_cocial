@@ -4,5 +4,8 @@
   "description": "demo backend app for ntmanh",
   "main": "src/server.ts",
   "author": "NT Manh",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }
