@@ -11,3 +11,5 @@ NodeJS
 MongoDB
 Express
 TypeScript
+
+- Lession 1: tsc-init
